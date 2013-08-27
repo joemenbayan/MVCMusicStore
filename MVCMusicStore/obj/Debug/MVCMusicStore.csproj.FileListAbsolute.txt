@@ -25,3 +25,6 @@ C:\Users\JoemenSarah\Desktop\MVCProjects\MVCMusicStore\MVCMusicStore\bin\System.
 C:\Users\JoemenSarah\Desktop\MVCProjects\MVCMusicStore\MVCMusicStore\obj\Debug\MVCMusicStore.csprojResolveAssemblyReference.cache
 C:\Users\JoemenSarah\Desktop\MVCProjects\MVCMusicStore\MVCMusicStore\obj\Debug\MVCMusicStore.dll
 C:\Users\JoemenSarah\Desktop\MVCProjects\MVCMusicStore\MVCMusicStore\obj\Debug\MVCMusicStore.pdb
+C:\Users\JoemenSarah\Desktop\MVCProjects\MVCMusicStore\MVCMusicStore\bin\Antlr3.Runtime.dll
+C:\Users\JoemenSarah\Desktop\MVCProjects\MVCMusicStore\MVCMusicStore\bin\System.Web.Optimization.dll
+C:\Users\JoemenSarah\Desktop\MVCProjects\MVCMusicStore\MVCMusicStore\bin\WebGrease.dll

@@ -28,3 +28,6 @@ C:\Users\JoemenSarah\Desktop\MVCProjects\MVCMusicStore\MVCMusicStore.Tests\bin\D
 C:\Users\JoemenSarah\Desktop\MVCProjects\MVCMusicStore\MVCMusicStore.Tests\obj\Debug\MVCMusicStore.Tests.csprojResolveAssemblyReference.cache
 C:\Users\JoemenSarah\Desktop\MVCProjects\MVCMusicStore\MVCMusicStore.Tests\obj\Debug\MVCMusicStore.Tests.dll
 C:\Users\JoemenSarah\Desktop\MVCProjects\MVCMusicStore\MVCMusicStore.Tests\obj\Debug\MVCMusicStore.Tests.pdb
+C:\Users\JoemenSarah\Desktop\MVCProjects\MVCMusicStore\MVCMusicStore.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\JoemenSarah\Desktop\MVCProjects\MVCMusicStore\MVCMusicStore.Tests\bin\Debug\WebGrease.dll
+C:\Users\JoemenSarah\Desktop\MVCProjects\MVCMusicStore\MVCMusicStore.Tests\bin\Debug\Antlr3.Runtime.dll

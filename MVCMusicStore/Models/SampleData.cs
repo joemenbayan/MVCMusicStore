@@ -6,9 +6,9 @@ using System.Data.Entity;
 
 namespace MVCMusicStore.Models
 {
-    public class SampleData : DropCreateDatabaseIfModelChanges<MusicStoreEntities>
+    public class SampleData : DropCreateDatabaseIfModelChanges<MVCMusicStoreContext>
     {
-        protected override void Seed(MusicStoreEntities context)
+        protected override void Seed(MVCMusicStoreContext context)
         {
             var genres = new List<Genre>
             {
