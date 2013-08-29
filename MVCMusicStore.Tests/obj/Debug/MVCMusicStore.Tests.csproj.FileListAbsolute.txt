@@ -64,3 +64,5 @@ C:\Users\jbayan\Desktop\PracticeCode\MVCMusicStore\MVCMusicStore.Tests\bin\Debug
 C:\Users\jbayan\Desktop\PracticeCode\MVCMusicStore\MVCMusicStore.Tests\obj\Debug\MVCMusicStore.Tests.csprojResolveAssemblyReference.cache
 C:\Users\jbayan\Desktop\PracticeCode\MVCMusicStore\MVCMusicStore.Tests\obj\Debug\MVCMusicStore.Tests.dll
 C:\Users\jbayan\Desktop\PracticeCode\MVCMusicStore\MVCMusicStore.Tests\obj\Debug\MVCMusicStore.Tests.pdb
+C:\Users\jbayan\Desktop\PracticeCode\MVCMusicStore\MVCMusicStore.Tests\bin\Debug\EntityFramework.dll
+C:\Users\jbayan\Desktop\PracticeCode\MVCMusicStore\MVCMusicStore.Tests\bin\Debug\EntityFramework.xml
